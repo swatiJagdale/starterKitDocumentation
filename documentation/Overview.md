@@ -12,7 +12,7 @@ Advantages of starter kit
 
 Starter is basically divided into parts
 ---------------------------------------
-* UI components
+* [UI components] (https://github.com/swatiJagdale/starterKitDocs/blob/master/documentation/Style_overview.md). *
 * Plugins
 
 Mobile starter kit is made for cross platform mobile applications.
