@@ -1,5 +1,9 @@
 Mobile starter Kit
 ================================
+
+Mobile starter kit is cretaed for the generic html components and plugins which can be reused across 
+the applications
+
 Mobile starter kit is made for cross platform mobile applications.
 
 Any application that is to be developed under Mobility project can use this starter kit 
