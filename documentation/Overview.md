@@ -7,9 +7,13 @@ the applications.
 Advantages of starter kit
 -----------------------------
 * Consistent UI across all the applications.
-* In case we need to change styleguide of any component, it will need to be done only in starter kit. This reduce the development efforts
-* Any new developer can go through the starter kit and 
+* In case we need to change style guide of any component, it will need to be done only in starter kit. This reduce the development efforts
+* Easier for new developre to ramp up
 
+Starter is basically divided into parts
+---------------------------------------
+* UI components
+* Plugins
 
 Mobile starter kit is made for cross platform mobile applications.
 
