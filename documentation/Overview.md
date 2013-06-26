@@ -2,7 +2,14 @@ Mobile starter Kit
 ================================
 
 Mobile starter kit is cretaed for the generic html components and plugins which can be reused across 
-the applications
+the applications.
+
+Advantages of starter kit
+-----------------------------
+* Consistent UI across all the applications.
+* In case we need to change styleguide of any component, it will need to be done only in starter kit. This reduce the development efforts
+* Any new developer can go through the starter kit and 
+
 
 Mobile starter kit is made for cross platform mobile applications.
 
@@ -19,4 +26,7 @@ The mobile starter kit contains:
 *[js] (http://github.github.com/js.html).*      
 *[nls] (http://github.github.com/nls.html).*  
 *[templates] (http://github.github.com/template.html).*  
+
+
+
 
